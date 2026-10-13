@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "Se usar este código, cite o repositório e, principalmente, o paper original de cada pasta."
+title: "Do Paper ao Pregão: papers de finanças quantitativas implementados e testados no mercado brasileiro"
+authors:
+  - family-names: Pires
+    given-names: Gabriel
+type: software
+license: MIT
+repository-code: "https://github.com/gabrielp18/do-paper-ao-pregao"
+date-released: "2026-10-13"
+keywords:
+  - finanças quantitativas
+  - replicação
+  - mercado brasileiro
+  - signature methods
+  - private equity
+references:
+  - type: article
+    title: "Signature Trading: A Path-Dependent Extension of the Mean-Variance Framework with Exogenous Signals"
+    authors:
+      - family-names: Futter
+        given-names: Owen
+      - family-names: Horvath
+        given-names: Blanka
+      - family-names: Wiese
+        given-names: Magnus
+    year: 2023
+    repository: "https://arxiv.org/abs/2308.15135"
+    identifiers:
+      - type: other
+        value: "arXiv:2308.15135"
+  - type: article
+    title: "Machine learning private equity returns"
+    authors:
+      - family-names: Tausch
+        given-names: Christian
+      - family-names: Pietz
+        given-names: Marcus
+    year: 2024
+    journal: "The Journal of Finance and Data Science"
+    volume: 10
+    start: 100141
+    doi: "10.1016/j.jfds.2024.100141"

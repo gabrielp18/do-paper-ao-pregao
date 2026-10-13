@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+# saídas que o estudo 02 regrava a cada execução (a versão publicada está em resultados/)
+papers/02-private-equity-ml/codigo/outputs/
+.DS_Store
+Thumbs.db
